@@ -10,6 +10,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="google-site-verification" content="nM6sCOVI_JEYnYozVZahrAVGr4rV8KJKpf2R8djHMkw" />
+        <meta name="google-site-verification" content="google2bf72ba5c5a88170" />
         {/* Google tag (gtag.js) */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-K7V3J5PZRP"></script>
         <script dangerouslySetInnerHTML={{
