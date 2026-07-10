@@ -1,0 +1,3 @@
+# adwali - minimal, safe config for Hostinger (LiteSpeed)
+DirectoryIndex index.html index.htm
+ErrorDocument 404 /404.html
