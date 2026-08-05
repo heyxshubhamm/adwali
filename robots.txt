@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /thank-you/
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+Sitemap: https://www.adwali.com/sitemap.xml
