@@ -18,5 +18,5 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.PORT }}
           script: |
-            cd /path/to/your/website
+            cd /home/u491253367/domains/adwali.com/public_html
             git pull origin main
